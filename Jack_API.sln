@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack_API", "Jack_API.csproj", "{DD7BD350-E995-437A-9DA5-304A02BA21FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7BD350-E995-437A-9DA5-304A02BA21FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7BD350-E995-437A-9DA5-304A02BA21FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7BD350-E995-437A-9DA5-304A02BA21FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7BD350-E995-437A-9DA5-304A02BA21FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE59D1F-619E-44B7-8547-4C1740AF7E62}
+	EndGlobalSection
+EndGlobal

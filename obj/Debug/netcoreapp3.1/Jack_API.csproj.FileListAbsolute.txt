@@ -1,0 +1,17 @@
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.exe
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.csprojAssemblyReference.cache
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.AssemblyInfoInputs.cache
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.AssemblyInfo.cs
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.deps.json
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.runtimeconfig.json
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.runtimeconfig.dev.json
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Jack_API.pdb
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.csproj.CopyComplete
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\obj\Debug\netcoreapp3.1\Jack_API.pdb
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\maarj\OneDrive\Töölaud\Jack_API\bin\Debug\netcoreapp3.1\Nancy.dll
